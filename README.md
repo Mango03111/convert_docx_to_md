@@ -137,7 +137,3 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\convert_docx_to_md.ps1 -Do
 
 - [convert_docx_to_md.ps1](./convert_docx_to_md.ps1)
 - [Chinese usage guide](./convert_docx_to_md使用说明.md)
-
-## License
-
-Add your preferred license here if you plan to publish the script publicly.
